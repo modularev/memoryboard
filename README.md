@@ -2,8 +2,8 @@
 
 1..6x spi jedec-memory soic-8 (e.g. 23LC1024 RAM)
 
-![Top](https://github.com/FrankBoesing/memoryboard/blob/master/img/top.png)
-![Bottom](https://github.com/FrankBoesing/memoryboard/blob/master/img/bottom.png)
+![Top](img/top.png)
+![Bottom](img/bottom.png)
 
 Partslist:
 
