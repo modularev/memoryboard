@@ -1,4 +1,4 @@
-# Memoryboard for Teensy 4.0 *untested*
+# *untested* Memoryboard for Teensy 4.0
 
 1..6x spi jedec-memory soic-8 (e.g. 23LC1024 RAM)
 
